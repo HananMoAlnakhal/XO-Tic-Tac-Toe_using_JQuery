@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X,O</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/all.min.css" />
+</head>
+<body>
+    <div class="BegSection">
+        <div class="subSec" style="
+        margin-top: 100px;">
+        <h2>options:</h2>
+            <button id="vsH" class='item done '><i class="fa-regular fa-grin-alt"></i>&Vscr;&sfr;.<i class="fa-regular fa-grin-alt"></i> </button>
+            <button id="vsAI" class="item done selected"><i class="fa-regular fa-grin-alt"></i> &Vscr;&sfr;.<i class="fa-solid fa-laptop"></i></button>
+        </div>
+        <div class="subSec"><h1>XO Game<br></h1>
+            <div class="results item-info" style="cursor: default;"> (<span class="X"> </span>) turn</div>
+            <div class="GameBody">
+
+                <button class="squer "></button>
+                <button class="squer "></button>
+                <button class="squer "></button>
+
+                <button class="squer "></button>
+                <button class="squer "></button>
+                <button class="squer "></button>
+
+                <button class="squer "></button>
+                <button class="squer "></button>
+                <button class="squer "></button>
+
+            </div>
+            <button id="playAgain" class="item" style="display: none;">Play Again</button>
+        </div >
+        <div class="subSec" style="
+        margin-top: 100px;
+
+        "><h2>Scores</h2>
+            <ul class="item-info" style="list-style: none;flex-direction: column;height: fit-content;width: max-content;">
+                <li style="text-align: center;"><span class="X" style="font-size: 30px;"> </span> : <span class="Xscore">0</span></li>
+                <li style="text-align: center;"><span class="O" style="font-size: 30px;"> </span> : <span class="Oscore">0</span></li>
+                <button id="SaveDateH" class="item done" style="color: aquamarine;">Save</button>
+            </ul>
+            <div  class="item-info" style="height:200px;overflow-y: scroll;overflow-x: hidden;scroll-behavior: smooth;width: 150px;">
+                <ul id="history" style="list-style: none;padding: 0;font-size: small;height: 200px;">
+                    
+                </ul>
+            </div>
+
+        
+        </div>
+    </div>
+<script src="js/jquery.min.js"></script>
+<script src="js/app.js"></script> 
+</body>
+</html>
