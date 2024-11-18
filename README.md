@@ -6,5 +6,6 @@
   <li> You can play with a friend or with a simple AI </li>
   <li> and finally user friendly </li>
 </ul>
+<a href="https://hananmoalnakhal.github.io/XO-Tic-Tac-Toe_using_JQuery/">Click here to play it!!</a>
+<br>
 <img src="https://github.com/user-attachments/assets/39c3c687-98f2-4dfd-b667-b29cb1993448">
-
