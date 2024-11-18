@@ -4,6 +4,7 @@
 </li>
   <li> It can save the results locally on the browser </li>
   <li> You can play with a friend or with a simple AI </li>
+  <li>could save the scores section on your browser</li>
   <li> and finally user friendly </li>
 </ul>
 <a href="https://hananmoalnakhal.github.io/XO-Tic-Tac-Toe_using_JQuery/">Click here to play it!!</a>
