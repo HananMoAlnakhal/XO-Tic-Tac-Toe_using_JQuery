@@ -7,6 +7,7 @@
   <li> You can play with a friend or with a simple AI </li>
   <li>could save the scores section on your browser</li>
   <li> and finally user friendly </li>
+  
 </ul>
 <br>
 <img src="https://github.com/user-attachments/assets/39c3c687-98f2-4dfd-b667-b29cb1993448">
